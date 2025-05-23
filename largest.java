@@ -1,11 +1,11 @@
-import java.util.*;
+
 class main{
 public static void main(String[] args){
-Scanner sc=new Scanner(System.in);
-int n=sc.nextInt();
+int n=2
 int[] a=new int[n];
+a={5,8,2,6,3,7};
 for(int i=0;i<n;i++){
-a[i]=sc.nextInt();
+System.out.print(a[i]+" ");
 }
 int max1=0;
 int max2=0;
