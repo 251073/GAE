@@ -1,6 +1,6 @@
 class main{
 public static void main(String[] args){
-int n=2
+int n=2;
 int[] a=new int[n];
 a[0]=5; a[1]=8; a[2]=2; a[3]=7; a[4]=3;
 for(int i=0;i<n;i++){
